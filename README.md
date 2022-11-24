@@ -5,7 +5,7 @@
 - Insta @allaeeddine7
 - Twitter @elbalbalialae79
 
-[![<ael-balb>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ael-balb>)](https://github.com/ael-balb/badge42)
+[![ael-balb's 42 stats](https://badge.mediaplus.ma/binary/ael-balb)](https://github.com/oakoudad/badge42)
 
 <!---
 ael-balb/ael-balb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
